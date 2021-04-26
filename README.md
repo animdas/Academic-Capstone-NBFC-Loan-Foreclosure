@@ -1,6 +1,6 @@
 # Academic Capstone Project - NBFC Loan Foreclosure
 
-###### In case of trouble opening the jupyter notebook (rendering issue), use this link: https://nbviewer.jupyter.org/github/animdas/Shinkasen_Travel_Experience-DataScienceHackathon/blob/main/GL_Hackathon_Final%20-%20AnimeshDas.ipynb
+###### In case of trouble opening the jupyter notebook (rendering issue), use this link: https://nbviewer.jupyter.org/github/animdas/Academic-Capstone-NBFC-Loan-Foreclosure/blob/main/Capstone%20-%20NBFC%20Loan%20Foreclosures.ipynb
 
 Objective: This multifaceted assignment involved solving a real-world NBFC problem by conducting a thorough analysis of the various loan attributes, building a machine learning model to make predictions and providing recommendations to the NBFC from the insights generated in order to avoid foreclosure costs.
 
