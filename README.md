@@ -6,4 +6,4 @@ Objective: This multifaceted assignment involved solving a real-world NBFC probl
 
 Tools/Techniques used: Python, Feature Engineering and Selection, Classifier Algorithms, Ensemble, Hyperparameter Optimization, Business Reporting/Recommendations.
 
-Conclusion: The final ensemble model was able to predict foreclosures with great accuracy. Several recommendations were provided to the NBFC based on the insights generated from EDA, model feature importances etc., adopting which foreclosures costs can be avoided.
+Conclusion: The final ensemble model was able to predict foreclosures with great accuracy. Several recommendations were provided to the NBFC based on the insights generated from EDA, model feature importances etc., adopting which foreclosures costs can be avoided. The comprehensive business report provided as well. 
